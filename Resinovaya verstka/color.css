@@ -86,7 +86,7 @@ footer {
 .all-down-block {
     display:flex;
     justify-content:space-between;
-    max-width:992px;
+    width:968px;
     min-width:768px;
 }
 .down-page-text {
